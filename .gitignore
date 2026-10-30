@@ -11,3 +11,6 @@ replica/screens/
 supabase/.temp/
 supabase/.branches/
 scripts/node_modules/
+
+# version web construite (Vercel)
+dist/
